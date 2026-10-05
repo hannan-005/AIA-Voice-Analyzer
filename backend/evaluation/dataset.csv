@@ -1,0 +1,4 @@
+filename,category,speaker,source,recording_method,notes
+genuine_01.m4a,genuine,hannan,human,direct_mic,genuine trusted speaker
+direct_clone.mp3,direct_clone,hannan,ai_clone,digital_file,direct AI-generated clone
+replayed_clone.m4a,replayed_clone,hannan,ai_clone,phone_speaker_to_laptop_mic,re-recorded AI clone
